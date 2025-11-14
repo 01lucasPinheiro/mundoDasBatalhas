@@ -158,7 +158,7 @@ while executando{
     
     print("Digite a opção que deseja:")
     print("1-Batalha")
-    print("2-Loja de armaduras")
+    print("2-Loja")
     print("3-Sair do jogo")
     print("Esolha sua opção")
     let escolhaMenu = readLine() ?? ""
